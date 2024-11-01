@@ -14,8 +14,8 @@ Step 3: Get the no of random numbers to be generated from the user and iterate i
 
 # PROGRAM:
 ```
-Reg no: 212222100049
-Name: S.Shanmathi
+Reg no: 212222100040
+Name: Ragul R
 
 #include <stdio.h>
 //Constants for LCG
